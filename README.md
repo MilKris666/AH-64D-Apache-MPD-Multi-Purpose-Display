@@ -11,7 +11,7 @@ DONATE: Feel free to say thanks... https://www.paypal.com/donate/?hosted_button_
 
 This is my MPD for the DCS AH-64D Apache. The project includes 3D-printable files, full build guide, optional parts with raised labels or laser engraving support, and of course my code for the Arduino. The total cost to build one MPD is approximately €70 or about $80. If Arduino feels like a complete mystery to you, I also describe an alternative build using a Leobodnar BBI-64 USB game controller board. This option is basically plug & play, but it does increase the cost.
 
-**RTFM** -- **READ THE Build-Guide.pdf !!**
+**RTFM** -- read the **Build-Guide.pdf** !!
 
 
 **LICENSE:**
