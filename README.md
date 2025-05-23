@@ -18,4 +18,3 @@ This is my MPD for the DCS AH-64D Apache. The project includes 3D-printable file
 Creative Commons Attribution-NonCommercial 4.0 International Public License
 
 
-![Alt text](Overview2.jpg)
