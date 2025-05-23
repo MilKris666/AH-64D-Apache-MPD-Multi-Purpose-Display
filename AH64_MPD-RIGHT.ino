@@ -10,7 +10,7 @@
 
 // ONLY WORKS WITH ARDUINO MEGA 2560 OR A COMPATIBLE BOARD
 
-// SEE THE WIRING-DIAGRAM.PNG!!!
+// Check the wiring diagram in the build guide!
 
 // NOTE: If Pin 13 is LOW, the program starts in Pilot MPD mode.
 //       If Pin 13 is HIGH, it starts in CPG MPD mode.
