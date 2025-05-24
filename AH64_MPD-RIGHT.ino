@@ -37,8 +37,8 @@ public:
   DcsBios::Switch2Pos vid{"PLT_MPD_R_VID", 40};
   DcsBios::Switch2Pos wpn{"PLT_MPD_R_WPN", 30};
 
-  DcsBios::RotaryEncoder brt{"PLT_MPD_R_BRT", "-3200", "+3200", 8, 9};
-  DcsBios::RotaryEncoder video{"PLT_MPD_R_VIDEO", "-3200", "+3200", 10, 11};
+  DcsBios::RotaryEncoder brt{"PLT_MPD_R_BRT", "-1600", "+1600", 8, 9};
+  DcsBios::RotaryEncoder video{"PLT_MPD_R_VIDEO", "-1600", "+1600", 10, 11};
 
   const byte modePins[3] = {2, 3, 4};
   DcsBios::SwitchMultiPos mode{"PLT_MPD_R_MODE", modePins, 3};
