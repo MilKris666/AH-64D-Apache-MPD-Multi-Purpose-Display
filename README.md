@@ -18,3 +18,6 @@ This is my MPD for the DCS AH-64D Apache. The project includes 3D-printable file
 Creative Commons Attribution-NonCommercial 4.0 International Public License
 
 
+
+# 🛠 Experiencing this issue? DCS-BIOS loses connection to Arduino Mega on mission restar
+Check out this workaround/fix: https://github.com/MilKris666/DCS-BIOS-socat-reset
