@@ -19,5 +19,5 @@ Creative Commons Attribution-NonCommercial 4.0 International Public License
 
 
 
-# 🛠 Experiencing this issue? DCS-BIOS loses connection to Arduino Mega on mission restar
+# 🛠 Experiencing this issue? DCS-BIOS loses connection to Arduino Mega on mission restart
 Check out this workaround/fix: https://github.com/MilKris666/DCS-BIOS-socat-reset
