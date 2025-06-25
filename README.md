@@ -5,7 +5,7 @@ Adruino based  MPD (Multi-Purpose-Display) for the DCS AH-64D Apache
 ![Alt text](Overview.jpg)
 
 
-# The 3D files and build guide will be updated and available again soon
+# The 3D files will be updated and available again soon
 
 Demo: [https://youtube.com/shorts/2huMgZh5P64](https://youtu.be/b7H5Edohsew)
 
