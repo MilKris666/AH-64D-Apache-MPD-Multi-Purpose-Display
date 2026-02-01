@@ -1,4 +1,4 @@
-#define DCSBIOS_DEFAULT_SERIAL
+#define DCSBIOS_IRQ_SERIAL
 #include "DcsBios.h"
 
 
