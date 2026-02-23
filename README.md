@@ -18,4 +18,4 @@ This is my MPD for the DCS AH-64D Apache. The project includes 3D-printable file
 **LICENSE:**
 Creative Commons Attribution-NonCommercial 4.0 International Public License
 
-** My projects have been downloaded thousands of times in the past. Providing the files and creating a guide is very time-consuming. Since no one is willing to make even a small donation, I have decided to offer the 3D files only for a small fee from now on. https://cults3d.com/de/modell-3d/gadget/ah-64d-mpd-multi-purpose-display **
+**My projects have been downloaded thousands of times in the past. Providing the files and creating a guide is very time-consuming. Since no one is willing to make even a small donation, I have decided to offer the 3D files only for a small fee from now on.** https://cults3d.com/de/modell-3d/gadget/ah-64d-mpd-multi-purpose-display
