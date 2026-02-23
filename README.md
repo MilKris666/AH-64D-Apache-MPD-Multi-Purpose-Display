@@ -8,6 +8,8 @@ Demo: [https://youtube.com/shorts/2huMgZh5P64](https://youtu.be/b7H5Edohsew)
 
 Complete CP/G Frontpanel: https://www.youtube.com/shorts/GwC2EZVeXsk
 
+# The code has been completely redesigned. It constantly checks whether you are in the pilot or co-pilot/gunner position, and the controls are automatically assigned accordingly. No more switching with a switch!
+
 This is my MPD for the DCS AH-64D Apache. The project includes 3D-printable files, full build guide, optional parts with raised labels or laser engraving support, and of course my code for the Arduino. The total cost to build one MPD is approximately €70 or about $80. If Arduino feels like a complete mystery to you, I also describe an alternative build using a Leobodnar BBI-64 USB game controller board. This option is basically plug & play, but it does increase the cost.
 
 **RTFM** -- read the **Build-Guide.pdf** !!
@@ -16,4 +18,4 @@ This is my MPD for the DCS AH-64D Apache. The project includes 3D-printable file
 **LICENSE:**
 Creative Commons Attribution-NonCommercial 4.0 International Public License
 
-# My projects have been downloaded thousands of times in the past. Providing the files and creating a guide is very time-consuming. Since no one is willing to make even a small donation, I have decided to offer the 3D files only for a small fee from now on. https://cults3d.com/de/modell-3d/gadget/ah-64d-mpd-multi-purpose-display
+My projects have been downloaded thousands of times in the past. Providing the files and creating a guide is very time-consuming. Since no one is willing to make even a small donation, I have decided to offer the 3D files only for a small fee from now on. https://cults3d.com/de/modell-3d/gadget/ah-64d-mpd-multi-purpose-display
