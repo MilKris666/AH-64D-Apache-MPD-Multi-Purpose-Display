@@ -83,7 +83,7 @@ DcsBios::RotaryEncoder encoder_01({"UNDEF", "-1600", "+1600", 8, 9});
 DcsBios::RotaryEncoder encoder_02({"UNDEF", "-1600", "+1600", 10, 11});
 
 const byte modePins[3] = {2, 3, 4};
-DcsBios::SwitchMultiPos mode(modePins, 3, "UNDEF"); 
+DcsBios::SwitchMultiPos mode("UNDEF", modePins, 3);
 
 // =========================================================
 // Layout struct
